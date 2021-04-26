@@ -1,0 +1,24 @@
+*{
+ margin: 0;
+    padding: 0;
+    list-style:none;
+    text-decoration:none;
+    
+}
+.dawn{
+    
+ width:100%;
+    height: 25%;
+    display: block;
+    background-color:black;
+    padding:10px;    
+    
+    
+}
+.dawn p{
+   
+    text-align: center;
+    color:white;
+    
+    
+}
