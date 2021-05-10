@@ -38,6 +38,13 @@ color:white;
     font-family:  'Roboto Condensed', sans-serif;
     font-size:32px;
 }
+.logo_container h1 a{
+    
+ color:white;
+    font-family:  'Roboto Condensed', sans-serif;
+    font-size:32px;    
+    
+}
 .logo_container h1 span{
     font-weight: 800;   
 }

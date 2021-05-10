@@ -31,7 +31,32 @@ color:white;
     
     
 }
+.body h1 a{
+  font-family: 'Lobster', cursive;
+    padding: 90px;
+color:white;
+    
+   
+    
+      text-align: center;
+
+
+    font-size:70px;
+   
+   
+    
+    
+}
 .body p{
+       font-family: 'Lobster', cursive;
+ text-align: center;
+
+         
+
+    font-size:70px;
+   color:white;
+}
+.body p a{
        font-family: 'Lobster', cursive;
  text-align: center;
 
